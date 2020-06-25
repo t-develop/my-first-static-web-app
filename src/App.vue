@@ -80,12 +80,14 @@ section{
 }
 
 .day{
-  display: inline;
+  display: inline-block;
 }
 
 .hour{
   margin: 0;
   border: 1px solid black;
+  width: 200px;
+  height: 50px;
 }
 
 span{
