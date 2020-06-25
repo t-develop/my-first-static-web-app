@@ -103,7 +103,7 @@ span{
 
 li{
   list-style: none;
-  display: inline-flex;
+  /*display: inline-flex;*/
 }
 
 
