@@ -94,9 +94,17 @@ section{
   border: 1px solid black;
   width: 200px;
   height: 50px;
+  display: inline-block;
 }
 
 span{
   vertical-align: top;
 }
+
+li{
+  list-style: none;
+  display: inline-flex;
+}
+
+
 </style>
