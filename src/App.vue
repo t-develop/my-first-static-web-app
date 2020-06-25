@@ -13,8 +13,8 @@
 
 <div class="day">
   <ul>
-  <li><span>8:00</span><div class="hour"></div></li>
-  <li><span>9:00</span><div class="hour"></div></li>
+  <li><span>08:00</span><div class="hour"></div></li>
+  <li><span>09:00</span><div class="hour"></div></li>
   <li><span>10:00</span><div class="hour"></div></li>
   <li><span>11:00</span><div class="hour"></div></li>
   <li><span>12:00</span><div class="hour"></div></li>
@@ -28,14 +28,14 @@
 </div>
 <div class="day">
   <ul>
-  <li><span>8:00</span><div class="hour"></div></li>
-  <li><span>9:00</span><div class="hour"></div></li>
-  <li><span>10:00</span><div class="hour"></div></li>
+  <li><span>08:00</span><div class="hour"></div></li>
+  <li><span>09:00</span><div class="hour"></div></li>
+  <li><span>10:00</span><div class="hour　registered">検索エンジンMTG</div></li>
   <li><span>11:00</span><div class="hour"></div></li>
   <li><span>12:00</span><div class="hour"></div></li>
-  <li><span>13:00</span><div class="hour"></div></li>
+  <li><span>13:00</span><div class="hour registered"></div></li>
   <li><span>14:00</span><div class="hour"></div></li>
-  <li><span>15:00</span><div class="hour"></div></li>
+  <li><span>15:00</span><div class="hour registered"></div></li>
   <li><span>16:00</span><div class="hour"></div></li>
   <li><span>17:00</span><div class="hour"></div></li>
   <li><span>18:00</span><div class="hour"></div></li>
@@ -43,8 +43,8 @@
 </div>
 <div class="day">
   <ul>
-  <li><span>8:00</span><div class="hour"></div></li>
-  <li><span>9:00</span><div class="hour"></div></li>
+  <li><span>08:00</span><div class="hour"></div></li>
+  <li><span>09:00</span><div class="hour"></div></li>
   <li><span>10:00</span><div class="hour"></div></li>
   <li><span>11:00</span><div class="hour"></div></li>
   <li><span>12:00</span><div class="hour"></div></li>
@@ -106,5 +106,8 @@ li{
   /*display: inline-flex;*/
 }
 
+.registered{
+background-color: lightcoral;
+}
 
 </style>
