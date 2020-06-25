@@ -1,5 +1,8 @@
 <template>
-  <div>Hello {{ value }}</div>
+  <div>
+    <span>Hello {{value}} </span>
+    <span>azure static web apps</span>
+  </div>
 </template>
 
 <script>
